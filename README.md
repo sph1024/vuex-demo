@@ -1,5 +1,13 @@
 # vuex-demo
 
+### Env
+```
+create vuex-demo
+  vue create is a Vue CLI 3 only command, You may want to run the following to upgrade to Vue CLI 3:
+  npm uninstall -g vue-cli
+  npm install -g @vue/cli
+```
+
 ## Project setup
 ```
 npm install
